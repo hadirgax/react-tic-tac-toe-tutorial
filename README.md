@@ -1,5 +1,16 @@
 The result after follow the React tutorial to build a [Tic Tac Toe game](https://reactjs.org/tutorial/tutorial.html), just for beginners.
 
+Some steps sugested by the React tutorial that will improve your capabilities are:
+
+- [❌] Display the location for each move in the format (col, row) in the move history list.
+- [❌] Bold the currently selected item in the move list.
+- [❌] Rewrite Board to use two loops to make the squares instead of hardcoding them.
+- [❌] Add a toggle button that lets you sort the moves in either ascending or descending order.
+- [❌] When someone wins, highlight the three squares that caused the win.
+- [❌] When no one wins, display a message about the result being a draw.
+
+---
+
 # git push -u origin main
 
 # Getting Started with Create React App
