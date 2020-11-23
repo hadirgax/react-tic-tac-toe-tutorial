@@ -1,3 +1,7 @@
+The result after follow the React tutorial to build a [Tic Tac Toe game](https://reactjs.org/tutorial/tutorial.html), just for beginners.
+
+# git push -u origin main
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
